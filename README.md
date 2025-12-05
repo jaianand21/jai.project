@@ -1,4 +1,4 @@
 # jai.project
-an sweet shop website page
+A Student at Lovely Professional University
 <br>
 Aurthor - Jai Anand
